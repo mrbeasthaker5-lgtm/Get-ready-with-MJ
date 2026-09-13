@@ -1,0 +1,6 @@
+{
+  "name": "Get Ready With MJ",
+  "description": "AI-powered personal styling assistant for haircut finding and Gen-Z outfit recommendations with facial geometry analysis and trend engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
